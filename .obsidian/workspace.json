@@ -1,48 +1,39 @@
 {
   "main": {
-    "id": "a42309493ccbe6bf",
+    "id": "203fbc3bb425b2ad",
     "type": "split",
     "children": [
       {
-        "id": "ffdce880bc3b8188",
+        "id": "0df0ede4114d8a06",
         "type": "tabs",
         "children": [
           {
-            "id": "63e95bc660cf7cea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f52443ed655efed6",
+            "id": "e39855ab940c3a38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test-git.md",
+                "file": "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "04a7dd03783e32aa",
+    "id": "3ec14099218e93b0",
     "type": "split",
     "children": [
       {
-        "id": "581735d9733aa68c",
+        "id": "6bddea911d550556",
         "type": "tabs",
         "children": [
           {
-            "id": "b6b53bc13e5a35d7",
+            "id": "a761a904c1008145",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +43,7 @@
             }
           },
           {
-            "id": "d2f67b3f37f09c37",
+            "id": "70b8a2b99997164a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +58,7 @@
             }
           },
           {
-            "id": "40acdc96f5933770",
+            "id": "d65760ad8558eebc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "2d26282ac14d9693",
+    "id": "aeb3bff08f04fe1f",
     "type": "split",
     "children": [
       {
-        "id": "4152c956ada24f00",
+        "id": "884bb8c04d523543",
         "type": "tabs",
         "children": [
           {
-            "id": "fa8efef2c4395aa8",
+            "id": "a2583cc4351ff37f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test-git.md",
+                "file": "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +97,19 @@
             }
           },
           {
-            "id": "2aef467bb7cfae91",
+            "id": "8af5e1c77679d154",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test-git.md",
+                "file": "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ec4ffb5c112aba88",
+            "id": "37c3ed0a8357e22c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +120,12 @@
             }
           },
           {
-            "id": "68efae2afd192c77",
+            "id": "ce391e471293d0ce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test-git.md"
+                "file": "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md"
               }
             }
           }
@@ -155,8 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f52443ed655efed6",
+  "active": "e39855ab940c3a38",
   "lastOpenFiles": [
+    "논문 작성/논문세미나.md",
+    "논문 작성/논문 작성 팁.md",
+    "논문 작성/논문 자료 참고.md",
+    "논문 작성/11.29 논문 수정.md",
+    "논문 작성/231215 논문 피드백.md",
     "Test-git.md"
   ]
 }
