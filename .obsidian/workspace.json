@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
+                "file": "논문 작성/231215 논문 피드백.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03876daba64b6248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "real-test git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
+                "file": "real-test git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
+                "file": "real-test git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md"
+                "file": "real-test git.md"
               }
             }
           }
@@ -146,13 +159,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e39855ab940c3a38",
+  "active": "03876daba64b6248",
   "lastOpenFiles": [
+    "논문 작성/231215 논문 피드백.md",
+    "real-test git.md",
+    "논문 작성/11.29 논문 수정.md",
     "논문 작성/논문세미나.md",
+    "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
     "논문 작성/논문 작성 팁.md",
     "논문 작성/논문 자료 참고.md",
-    "논문 작성/11.29 논문 수정.md",
-    "논문 작성/231215 논문 피드백.md",
     "Test-git.md"
   ]
 }
