@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "텀프로젝트 발표.md",
+                "file": "무제 파일 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5dd3a659c5dddb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "텀프로젝트 발표.md",
+                "file": "무제 파일 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "텀프로젝트 발표.md",
+                "file": "무제 파일 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "텀프로젝트 발표.md"
+                "file": "무제 파일 2.md"
               }
             }
           }
@@ -159,11 +171,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a761a904c1008145",
+  "active": "d5dd3a659c5dddb9",
   "lastOpenFiles": [
-    "test.md",
     "텀프로젝트 발표.md",
+    "TESTSS.md",
     "무제 파일 2.md",
+    "DFX 세미나/2023.10.27 Gfarm 세미나.md",
+    "test.md",
     "논문 작성/231215 논문 피드백.md",
     "논문 작성/논문 자료 참고.md",
     "논문 작성/논문 작성 팁.md",
