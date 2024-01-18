@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "03876daba64b6248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "real-test git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real-test git.md",
+                "file": "논문 작성/231215 논문 피드백.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real-test git.md",
+                "file": "논문 작성/231215 논문 피드백.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real-test git.md"
+                "file": "논문 작성/231215 논문 피드백.md"
               }
             }
           }
@@ -159,15 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "03876daba64b6248",
+  "active": "e39855ab940c3a38",
   "lastOpenFiles": [
-    "논문 작성/231215 논문 피드백.md",
-    "real-test git.md",
-    "논문 작성/11.29 논문 수정.md",
+    "논문 작성/논문 자료 참고.md",
+    "논문 작성/논문 작성 팁.md",
     "논문 작성/논문세미나.md",
     "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
-    "논문 작성/논문 작성 팁.md",
-    "논문 작성/논문 자료 참고.md",
-    "Test-git.md"
+    "무제 파일 2.md",
+    "무제 파일.md",
+    "논문 작성/231215 논문 피드백.md",
+    "Test-git.md",
+    "real-test git.md",
+    "논문 작성/11.29 논문 수정.md"
   ]
 }
