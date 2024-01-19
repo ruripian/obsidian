@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5f032d5e9069666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "소 움직임 탐지/24.01.19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "논문 작성/231215 논문 피드백.md",
+                "file": "소 움직임 탐지/24.01.19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "논문 작성/231215 논문 피드백.md",
+                "file": "소 움직임 탐지/24.01.19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "논문 작성/231215 논문 피드백.md"
+                "file": "소 움직임 탐지/24.01.19.md"
               }
             }
           }
@@ -171,14 +183,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d5dd3a659c5dddb9",
+  "active": "a5f032d5e9069666",
   "lastOpenFiles": [
+    "소 움직임 탐지/24.01.19.md",
+    "논문 작성/231215 논문 피드백.md",
+    "소 움직임 탐지",
     "논문 작성/논문 자료 참고.md",
     "논문 작성/논문 작성 팁.md",
     "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
     "논문 작성/논문세미나.md",
     "논문 세미나/논문발표.md",
-    "논문 작성/231215 논문 피드백.md",
     "논문 작성/11.29 논문 수정.md",
     "무제 파일 2.md",
     "TESTSS.md",
