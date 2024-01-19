@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소 움직임 탐지/24.01.19.md",
+                "file": "텀프로젝트 발표.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "655960e6a91d84c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stitching.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소 움직임 탐지/24.01.19.md",
+                "file": "Stitching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소 움직임 탐지/24.01.19.md",
+                "file": "Stitching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소 움직임 탐지/24.01.19.md"
+                "file": "Stitching.md"
               }
             }
           }
@@ -183,9 +195,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a5f032d5e9069666",
+  "active": "655960e6a91d84c7",
   "lastOpenFiles": [
     "소 움직임 탐지/24.01.19.md",
+    "Stitching.md",
+    "텀프로젝트 발표.md",
     "논문 작성/231215 논문 피드백.md",
     "소 움직임 탐지",
     "논문 작성/논문 자료 참고.md",
@@ -196,7 +210,6 @@
     "논문 작성/11.29 논문 수정.md",
     "무제 파일 2.md",
     "TESTSS.md",
-    "텀프로젝트 발표.md",
     "DFX 세미나/2023.10.27 Gfarm 세미나.md",
     "test.md",
     "Test-git.md",
