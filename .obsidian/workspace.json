@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stitching.md",
+                "file": "소 움직임 탐지/24.01.19.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stitching.md",
+                "file": "소 움직임 탐지/24.01.19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stitching.md",
+                "file": "소 움직임 탐지/24.01.19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stitching.md"
+                "file": "소 움직임 탐지/24.01.19.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "655960e6a91d84c7",
   "lastOpenFiles": [
-    "소 움직임 탐지/24.01.19.md",
     "Stitching.md",
+    "소 움직임 탐지/24.01.19.md",
     "텀프로젝트 발표.md",
     "논문 작성/231215 논문 피드백.md",
     "소 움직임 탐지",
