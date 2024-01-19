@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "논문 작성/11.29 논문 수정.md",
+                "file": "논문 작성/231215 논문 피드백.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "논문 작성/11.29 논문 수정.md",
+                "file": "논문 작성/231215 논문 피드백.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "논문 작성/11.29 논문 수정.md",
+                "file": "논문 작성/231215 논문 피드백.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "논문 작성/11.29 논문 수정.md"
+                "file": "논문 작성/231215 논문 피드백.md"
               }
             }
           }
@@ -173,18 +173,19 @@
   },
   "active": "d5dd3a659c5dddb9",
   "lastOpenFiles": [
+    "논문 작성/논문 자료 참고.md",
+    "논문 작성/논문 작성 팁.md",
+    "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
+    "논문 작성/논문세미나.md",
+    "논문 세미나/논문발표.md",
+    "논문 작성/231215 논문 피드백.md",
+    "논문 작성/11.29 논문 수정.md",
     "무제 파일 2.md",
     "TESTSS.md",
     "텀프로젝트 발표.md",
     "DFX 세미나/2023.10.27 Gfarm 세미나.md",
     "test.md",
-    "논문 작성/231215 논문 피드백.md",
-    "논문 작성/논문 자료 참고.md",
-    "논문 작성/논문 작성 팁.md",
-    "논문 작성/논문세미나.md",
-    "논문 작성/CCTV를 이용한 자돈사 사료,식수 탐지 논문 작성.md",
     "Test-git.md",
-    "real-test git.md",
-    "논문 작성/11.29 논문 수정.md"
+    "real-test git.md"
   ]
 }
