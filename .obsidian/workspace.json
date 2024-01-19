@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "논문 작성/11.29 논문 수정.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "논문 작성/11.29 논문 수정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "논문 작성/11.29 논문 수정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 2.md"
+                "file": "논문 작성/11.29 논문 수정.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "d5dd3a659c5dddb9",
   "lastOpenFiles": [
-    "TESTSS.md",
     "무제 파일 2.md",
+    "TESTSS.md",
     "텀프로젝트 발표.md",
     "DFX 세미나/2023.10.27 Gfarm 세미나.md",
     "test.md",
