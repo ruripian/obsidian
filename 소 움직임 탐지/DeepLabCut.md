@@ -1,3 +1,5 @@
+outlink : [[2024.01.23 메일 내용 정리]]
+
 https://east-rain.github.io/docs/Deep%20Learning/deeplabcut/introduction.html
 
 다양한 작업을 수행하는 동물의 Markerless pose estimation을 위한 도구 상자(일종의 프레임워크)로써,
