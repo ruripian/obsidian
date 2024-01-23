@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소 움직임 탐지/YOLO8.md",
+                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소 움직임 탐지/YOLO8.md",
+                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소 움직임 탐지/YOLO8.md",
+                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소 움직임 탐지/YOLO8.md"
+                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md"
               }
             }
           },
@@ -156,15 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1460bb45751b40fb",
+  "active": "a761a904c1008145",
   "lastOpenFiles": [
+    "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
+    "소 움직임 탐지/DeepLabCut.md",
+    "소 움직임 탐지/YOLO8.md",
     "첨부폴더/Pasted image 20240123132901.png",
     "첨부폴더/Pasted image 20240123130830.png",
     "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
-    "소 움직임 탐지/YOLO8.md",
     "첨부폴더/Pasted image 20240123113509.png",
-    "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
-    "소 움직임 탐지/DeepLabCut.md",
     "첨부폴더/Pasted image 20240123113139.png",
     "첨부폴더/Pasted image 20240123111531.png",
     "논문 세미나/샘플링.md",

@@ -16,7 +16,6 @@
 > 
 > 5. Use decoupled head and delete the objectness branch
 
-
 ### Anchor Free Detection
 - 미리 입력된 Anchor Box를 사용하지 않고, 객체의 center를 직접 예측하는 방법
 - Bbox 예측의 수를 줄여서 NMS(Non-Maximum Suppression)를 가속화 할 수 있음
