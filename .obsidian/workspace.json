@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e39855ab940c3a38",
+            "id": "5e90af27eb73cbfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "텀프로젝트 발표.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ead5ff0a8508e8ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5dd3a659c5dddb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "논문 작성/231215 논문 피드백.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5f032d5e9069666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "텀프로젝트 발표.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "655960e6a91d84c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DFX 세미나/2023.10.27 Gfarm 세미나.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec6785216fd81483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DFX 세미나/2024.01.22 세미나(ETRI-정재영 박사님).md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFX 세미나/2024.01.22 세미나(ETRI-정재영 박사님).md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFX 세미나/2024.01.22 세미나(ETRI-정재영 박사님).md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFX 세미나/2024.01.22 세미나(ETRI-정재영 박사님).md"
+                "file": "test.md"
               }
             }
           }
@@ -207,14 +146,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ec6785216fd81483",
+  "active": "5e90af27eb73cbfe",
   "lastOpenFiles": [
-    "DFX 세미나/무제 파일.md",
-    "DFX 세미나/2024.01.22 세미나(ETRI-정재영 박사님).md",
-    "DFX 세미나/2023.10.27 Gfarm 세미나.md",
-    "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
-    "Stitching.md",
     "텀프로젝트 발표.md",
+    "무제 파일 2.md",
+    "test.md",
+    "DFX 세미나/2023.10.27 Gfarm 세미나.md",
+    "Stitching.md",
+    "DFX 세미나/2024.01.22 세미나(ETRI-정재영 박사님).md",
+    "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
     "논문 작성/231215 논문 피드백.md",
     "소 움직임 탐지",
     "논문 작성/논문 자료 참고.md",
@@ -223,9 +163,7 @@
     "논문 작성/논문세미나.md",
     "논문 세미나/논문발표.md",
     "논문 작성/11.29 논문 수정.md",
-    "무제 파일 2.md",
     "TESTSS.md",
-    "test.md",
     "Test-git.md",
     "real-test git.md"
   ]
