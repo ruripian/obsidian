@@ -128,13 +128,21 @@
                 "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md"
               }
             }
+          },
+          {
+            "id": "aa0d198f4fac6ac3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,10 +151,11 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a761a904c1008145",
+  "active": "aa0d198f4fac6ac3",
   "lastOpenFiles": [
     "첨부폴더/(R&R)농축산-2024년도 기술사업화지원사업 R&R (1).xlsx",
     "텀프로젝트 발표.md",
