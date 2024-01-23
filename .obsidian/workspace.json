@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5e90af27eb73cbfe",
+  "active": "a761a904c1008145",
   "lastOpenFiles": [
+    "첨부폴더/(R&R)농축산-2024년도 기술사업화지원사업 R&R (1).xlsx",
     "텀프로젝트 발표.md",
     "무제 파일 2.md",
-    "test.md",
+    "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
     "DFX 세미나/2023.10.27 Gfarm 세미나.md",
     "Stitching.md",
     "DFX 세미나/2024.01.22 세미나(ETRI-정재영 박사님).md",

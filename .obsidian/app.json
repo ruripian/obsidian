@@ -1,3 +1,5 @@
 {
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "첨부폴더",
+  "showUnsupportedFiles": true
 }
