@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0df0ede4114d8a06",
+        "id": "3943c18db79e9020",
         "type": "tabs",
         "children": [
           {
-            "id": "5e90af27eb73cbfe",
+            "id": "14eb82d08ebad64c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -155,20 +156,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a761a904c1008145",
+  "active": "14eb82d08ebad64c",
   "lastOpenFiles": [
+    "첨부폴더/Pasted image 20240123111531.png",
+    "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
+    "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
+    "논문 세미나/샘플링.md",
+    "논문 세미나/EfficientNetV2/EfficinetNetV2.md",
     "논문 세미나/EfficientNetV2/mixup.md",
     "논문 세미나/EfficientNetV2/dropout.md",
     "논문 세미나/EfficientNetV2/batchsize.md",
     "논문 세미나/EfficientNetV2/SIFT, SURF and ORB on OpenCV.md",
     "논문 세미나/EfficientNetV2/RandAugment.md",
-    "논문 세미나/EfficientNetV2/EfficinetNetV2.md",
     "논문 세미나/EfficientNetV2/Depthwise_convolution.md",
     "논문 세미나/EfficientNetV2",
-    "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
     "무제 파일 2.md",
     "텀프로젝트 발표.md",
-    "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
     "첨부폴더/(R&R)농축산-2024년도 기술사업화지원사업 R&R (1).xlsx",
     "DFX 세미나/2023.10.27 Gfarm 세미나.md",
     "Stitching.md",
