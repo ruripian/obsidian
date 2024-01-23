@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
+                "file": "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
+                "file": "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
+                "file": "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md"
+                "file": "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "1460bb45751b40fb",
   "lastOpenFiles": [
-    "소 움직임 탐지/DeepLabCut.md",
     "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
+    "첨부폴더/Pasted image 20240123113139.png",
+    "소 움직임 탐지/DeepLabCut.md",
     "첨부폴더/Pasted image 20240123111531.png",
     "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
     "논문 세미나/샘플링.md",
@@ -186,7 +187,6 @@
     "논문 세미나/논문발표.md",
     "논문 작성/11.29 논문 수정.md",
     "TESTSS.md",
-    "Test-git.md",
-    "real-test git.md"
+    "Test-git.md"
   ]
 }
