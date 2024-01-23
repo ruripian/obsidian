@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8efae5f79cdde62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "소 움직임 탐지/DeepLabCut.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
+                "file": "소 움직임 탐지/DeepLabCut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
+                "file": "소 움직임 탐지/DeepLabCut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소 움직임 탐지/2024.01.23 메일 내용 정리.md"
+                "file": "소 움직임 탐지/DeepLabCut.md"
               }
             }
           },
@@ -156,11 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14eb82d08ebad64c",
+  "active": "b8efae5f79cdde62",
   "lastOpenFiles": [
+    "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
+    "소 움직임 탐지/DeepLabCut.md",
     "첨부폴더/Pasted image 20240123111531.png",
     "소 움직임 탐지/소 움직임 탐지 24.01.19 미팅.md",
-    "소 움직임 탐지/2024.01.23 메일 내용 정리.md",
     "논문 세미나/샘플링.md",
     "논문 세미나/EfficientNetV2/EfficinetNetV2.md",
     "논문 세미나/EfficientNetV2/mixup.md",
