@@ -1,5 +1,6 @@
 {
   "newFileLocation": "root",
   "attachmentFolderPath": "첨부폴더",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": true
 }
