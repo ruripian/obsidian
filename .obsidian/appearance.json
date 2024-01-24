@@ -4,5 +4,6 @@
   "baseFontSize": 15,
   "enabledCssSnippets": [
     "my_style"
-  ]
+  ],
+  "translucency": false
 }
