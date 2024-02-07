@@ -5,20 +5,20 @@
   "daily": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "daily note",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
     "folder": "",
-    "enabled": true
+    "enabled": false
   },
   "monthly": {
     "format": "",
     "template": "",
     "folder": "",
-    "enabled": true
+    "enabled": false
   },
   "quarterly": {
     "format": "",
