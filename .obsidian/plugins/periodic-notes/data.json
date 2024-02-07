@@ -1,10 +1,10 @@
 {
-  "showGettingStartedBanner": true,
+  "showGettingStartedBanner": false,
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "",
+    "template": "daily note/템플릿.md",
     "folder": "daily note",
     "enabled": true
   },
