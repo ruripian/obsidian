@@ -1,3 +1,5 @@
 {
-  "folder": "daily note"
+  "folder": "daily note",
+  "template": "daily note/템플릿",
+  "autorun": true
 }
