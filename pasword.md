@@ -7,3 +7,6 @@ DFX-Gfram-server
 - host : 211.107.220.176
 - post : 24
 - ex) ssh dfx_3@211.107.220.176 -p 24
+
+
+/Users/ruripian/testdata
