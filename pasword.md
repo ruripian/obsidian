@@ -8,5 +8,5 @@ DFX-Gfram-server
 - post : 24
 - ex) ssh dfx_3@211.107.220.176 -p 24
 
-
+RsTSkjw1d62wh3d
 /Users/ruripian/testdata
