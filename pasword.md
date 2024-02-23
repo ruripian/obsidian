@@ -9,4 +9,4 @@ DFX-Gfram-server
 - pw : RsTSkjw1d62wh3d
 - host : 211.107.220.176
 - post : 24
-- ex) ssh dfx_3@211.107.220.176 -p 24
+- ssh dfx_3@211.107.220.176 -p 24
