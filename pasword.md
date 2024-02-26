@@ -10,5 +10,4 @@ DFX-Gfram-server
 - host : 211.107.220.176
 - post : 24
 - ssh dfx_3@211.107.220.176 -p 24
-
-docker run -d --name pig_data -v /home/dfx_3/ruripian:/workspace/pig_data_ruripian pig_data
+- docker run -d --name pig_data -v /home/dfx_3/ruripian:/workspace/pig_data_ruripian pig_data
