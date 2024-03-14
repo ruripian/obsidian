@@ -20,4 +20,4 @@ parsec-google(window)
 - 영문 + 숫자 + 특수문자(기본) / 13자 이상
 
 minc_server_dt
-- MTIxNzY1MTI4NTc5MzE3Nzc4Mw.Gm68NS._KOE5-YLVcb97s7lCeVWQDyuh61k8A-DQ_tCSo
+- MTIxNzY1MTI4NTc5MzE3Nzc4Mw.GZi3L4.u_RClnjkS0FhzpoV0Bm0Xcy1GbbCvPzJsaK1nA
