@@ -7,4 +7,4 @@ DFX-Gfram-server
 - docker run -d --name pig_data -v /home/dfx_3/ruripian:/workspace/pig_data_ruripian pig_data
  - scp -P 24 dfx_3@211.107.220.176:home/dfx_3/pig_data3.zip 
  - scp pig_data.tar dfx_3@211.107.220.176:home/dfx_3
-- docker load -i pig_data.tar
+-  tmux new -s ruripian
