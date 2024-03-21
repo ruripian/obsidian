@@ -11,4 +11,3 @@ DFX-Gfram-server
 - scp -P 24 dfx_3@211.107.220.176:/home/dfx_3/pig_data3.zip 
 - scp -P 24 pig_data.tar dfx_3@211.107.220.176:/home/dfx_3
 -  tmux new -s ruripian
-- 
