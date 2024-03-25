@@ -5,5 +5,6 @@
   "calendar",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "make-md"
+  "make-md",
+  "folders2graph"
 ]
