@@ -3,5 +3,7 @@
   "table-editor-obsidian",
   "editor-width-slider",
   "calendar",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "make-md"
 ]
