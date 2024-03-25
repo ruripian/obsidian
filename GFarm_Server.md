@@ -1,3 +1,6 @@
+ #tecnical
+
+
 DFX-Gfram-server
 - user : dfx_3
 - pw : RsTSkjw1d62wh3d
