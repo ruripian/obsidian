@@ -1,3 +1,6 @@
+---
+tags: technical
+---
 
 ### 충돌시 강제 pull
 git fetch --all

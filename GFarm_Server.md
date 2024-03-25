@@ -1,5 +1,6 @@
- #tecnical
-
+---
+tags: technical
+---
 
 DFX-Gfram-server
 - user : dfx_3
