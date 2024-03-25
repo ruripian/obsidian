@@ -2,5 +2,6 @@
   "newFileLocation": "root",
   "attachmentFolderPath": "첨부폴더",
   "showUnsupportedFiles": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true
 }
