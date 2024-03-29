@@ -13,3 +13,6 @@ parsec-google(window)
 
 minc_server_dt
 - MTIxNzY1MTI4NTc5MzE3Nzc4Mw.GZi3L4.u_RClnjkS0FhzpoV0Bm0Xcy1GbbCvPzJsaK1nA
+
+국가연구자번호
+- 12978699
