@@ -12,7 +12,7 @@
 StitcHD https://www.youtube.com/watch?v=3in4e_yYOIA
 https://www.youtube.com/watch?v=IDzFvqRb40Y
 
-![[Pasted image 20231214135041.png]]
+![[Pasted image 20231214135041.png|800]]
 
 - 이미지 합성에서의 cuda 사용 :  
 	- https://answers.opencv.org/question/234209/cudacuts-for-image-texture-synthesis/
